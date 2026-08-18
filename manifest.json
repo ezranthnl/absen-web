@@ -1,7 +1,7 @@
 {
-    "name": "absen_ezra",
-    "short_name": "absen_ezra",
-    "start_url": ".",
+    "name": "Attendance System",
+    "short_name": "Attendance System",
+    "start_url": "/absen_ezra/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
